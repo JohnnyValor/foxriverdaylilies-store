@@ -4,6 +4,8 @@ www.foxriverdaylilies.com
 
 This site was built for a client who wanted a clean, intuitive, easy to use and customizable e-commerce site. This is the front end of the project.
 
+The back end is here: https://github.com/JohnnyValor/foxriverdaylilies-admin
+
 ## Concepts/Technologies Learned:
 
 ```bash
