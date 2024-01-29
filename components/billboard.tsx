@@ -18,7 +18,7 @@ const Billboard: React.FC<BillboardProps> = ({ data }) => {
             </div>
             <div className="font-bold py-4 text-lg">
                 <p>Seedlings & Cultivars only ship May-Sep. Seeds ship all year.</p>
-                <p>S&H of 15.00 for Seedlings & Cultivars and 5.50 for seeds is included in displayed price.</p>
+                <p>Shipping and tax is included in displayed price.</p>
             </div>
         </div>
     )
